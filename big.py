@@ -1,3 +1,4 @@
+"""
 Big Projects For Portfolio (Ages 16-22)
 
 For Data Science
@@ -20,3 +21,4 @@ Project Idea													What It Shows											Extra Tips
 4. Penetration Test Lab 										Hands-on pentesting skills								Setup vulnerable machines (like DVWA, Metasploitable2) and attack safely
 5. Password Cracking Simulator									Brute force + dictionary attack simulation				Write a simple password cracker using Python
 6. Log Analysis Tool											Find anomalies in system logs							Great project for defensive security (SOC analyst work)
+"""
