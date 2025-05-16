@@ -6,16 +6,21 @@
 
 | Project Idea| What It Shows| Type | Difficulty(/10)|
 |----------------------------------|---------------|-----------------------------|-----------------------------|
-| 1. Basic Network Scanner  |  TCP/IP, sockets, and how services run on ports | Beginner |3/10|
-| 2. Password Strength Checker  | tool that evaluates password complexity | Beginner |2/10|
-| 3. Simple Keylogger (Ethical & Local Use Only)  |  hooks, privacy concerns, and ethics | Beginner |4/10|
-| 4. Wi-Fi Network Packet Sniffer  |  packet structure and sniffing basics | Beginner |5/10|
-| 5. Port Knocking Implementation  |  port knocking script | Intermediate  |5/10|
-| 6. Vulnerability Scanner for Web Appsn  |  SQL injection or XSS in test web apps | Intermediate  |6/10|
-| 7. Basic Exploit Script  |  exploit for a known, safe vulnerability | Intermediate  |7/10|
-| 8. Automated Phishing Awareness Tool  |  detect phishing URLs | Intermediate  |6/10|
-| 9. Simple Malware Sandbox   |  virtual environment that safely runs | Intermediate  |7/10|
-| 10. Encrypted Chat Application  |  basic encryption (like AES) to secure messages | Intermediate  |6/10|
+| 1. Basic Network Scanner  |  a Python script to scan IP ranges and detect open ports | Beginner |3/10|
+| 2. Password Strength Checker  | a tool that evaluates password complexity based on length, character types, and common patterns | Beginner |2/10|
+| 3. Simple Keylogger (Ethical & Local Use Only)  |  a basic keylogger that logs keystrokes on your own machine for learning purposes | Beginner |4/10|
+| 4. Wi-Fi Network Packet Sniffer  |  Python libraries (like Scapy) to capture and analyze Wi-Fi packets | Beginner |5/10|
+| 5. Port Knocking Implementation  |  a port knocking script for stealthily opening ports on your own server | Intermediate  |5/10|
+| 6. Vulnerability Scanner for Web Appsn  |  a Python script to check for simple vulnerabilities like SQL injection or XSS in test web apps | Intermediate  |6/10|
+| 7. Basic Exploit Script  |  an exploit for a known, safe vulnerability in a controlled lab environment | Intermediate  |7/10|
+| 8. Automated Phishing Awareness Tool  |  a tool that detects phishing URLs by analyzing suspicious patterns | Intermediate  |6/10|
+| 9. Simple Malware Sandbox   |  a virtual environment that safely runs and monitors malware behavior  | Intermediate  |7/10|
+| 10. Encrypted Chat Application  |  a chat app that uses basic encryption (like AES) to secure messages | Intermediate  |6/10|
+| 11. Custom TCP/IP Packet Injector  |  a tool to craft and send custom TCP/IP packets to a target for testing | Advanced   |8/10|
+| 12. Web Application Firewall (WAF) Prototype  |  a simple WAF that filters malicious requests based on patterns | Advanced   |8/10|
+| 13. Automated Vulnerability Report Generator  |  a tool that attempts to crack hashed passwords  | Advanced   |8/10|
+| 14. Password Cracking Tool (Hash Cracker)  |  attempts to crack hashed passwords | Advanced   |7/10|
+| 15. Capture The Flag (CTF) Challenge Creator   | your own mini CTF challenges  | Advanced   |9/10|
 
 # 
 # Beginner Level (4 projects) — 1st year / next 3-4 months
